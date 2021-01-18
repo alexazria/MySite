@@ -1,0 +1,121 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin-top: 50px;
+  font-family: 'Sacramento', cursive;
+  color: #00af91;
+
+}
+
+h2{
+  font-family: 'Sacramento', cursive;
+  font-size: 350%;
+
+  color: #184d47
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 300%;
+    margin: 0;
+    color: #00af91;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 150%;
+}
+
+.topcontainer{
+  background-color: #d7fbe8;
+  height: 700px;
+  content: "\01F354";
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  background-color: #d7fbe8;
+}
+.bottom-container{
+  background-color: #d7fbe8;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.profile-photo{
+  margin-top: 6%;
+  border-radius: 100%;
+  width: 20%;
+  height: 20%;
+}
+.development{
+  border-radius: 100%;
+  width: 20%;
+  height: 40%;
+  float: left;
+}
+
+.ios{
+  border-radius: 100%;
+  width: 20%;
+  height: 40%;
+  float: right;
+}
+.rocket{
+  width: 20%;
+  position: relative;
+  float: center;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.dev-sell{
+  margin-left: 30%;
+}
+
+.ios-sell{
+  margin-right: 30%;
+}
+
+
+.ios-developper{
+  float: right;
+  color: #00af91;
+}
+
+.www{
+  color:  #00af91;
+}
+
+.hello{
+  font-size: 700%;
+}
+.button{
+  font-size: 5.625rem;
+  margin-top: 50px;
+font-family: 'Montserrat', sans-serif;
+  color: #00af91;
+}
